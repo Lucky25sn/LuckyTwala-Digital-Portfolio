@@ -1,97 +1,32 @@
 # LuckyTwala-Portfolio
-# 👨‍💻 Lucky July Twala - Developer Portfolio
+# 👨‍💻 Lucky July Twala - Digital Portfolio
 
 ## 📌 About Me
-I am a passionate ICT Application Development student with a strong interest in software development, web development, and problem-solving. I enjoy building practical applications and continuously improving my coding skills.
+I am an ICT Application Development student passionate about software development and web development. This portfolio showcases my work readiness training, projects, and reflections.
 
 ---
 
-## 🛠 Technical Skills
-
-### 💻 Programming
-- Java ⭐⭐⭐⭐☆
-- JavaScript ⭐⭐⭐☆☆
-
-### 🌐 Web Development
-- HTML ⭐⭐⭐⭐☆
-- CSS ⭐⭐⭐⭐☆
-- Responsive Design ⭐⭐⭐☆☆
-
-### 🗄️ Concepts
-- Object-Oriented Programming (OOP) ⭐⭐⭐⭐☆
-- Problem Solving ⭐⭐⭐⭐☆
-
-### 🔧 Tools
-- GitHub ⭐⭐⭐☆☆
-- NetBeans ⭐⭐⭐⭐☆
-- VS Code ⭐⭐⭐⭐☆
+## 📄 My CV
+👉 [View My CV](cv.md)
 
 ---
 
-## 🚀 Projects
-
-### 🌱 1. Unity for Change Website
-**Description:**  
-A responsive NGO website focused on environmental sustainability and community development.
-
-**Technologies Used:**  
-HTML, CSS, JavaScript
-
-**My Role:**  
-Front-end Developer
-
-**Features:**
-- Home, About, Projects, Contact pages
-- Volunteer sign-up form
-- Donation page
-- Image gallery
-
-**📷 Screenshots:**  
-(Add your screenshots here)
+## 🎥 Mock Interview Video
+<video width="600" controls>
+  <source src="video/mock-interview.mp4" type="video/mp4">
+</video>
 
 ---
 
-### 🤝 2. Friends Link (Social Networking Concept)
-**Description:**  
-A social networking platform idea designed to help people connect and interact.
-
-**Technologies Used:**  
-HTML, CSS, JavaScript
-
-**Features:**
-- User connection system
-- Profile interaction concept
-- Modern UI design idea
-
-**📷 Screenshots:**  
-(Add screenshots)
+## 🧠 Reflections (STAR Method)
+👉 [View Reflections](reflection.md)
 
 ---
 
-### 🧮 3. Employee Management System (Java)
-**Description:**  
-A Java-based application demonstrating object-oriented programming concepts.
-
-**Technologies Used:**  
-Java
-
-**Features:**
-- Employee, Manager, Secretary classes
-- Salary calculations
-- Leave cost calculations
-
-**📷 Screenshots:**  
-(Add screenshots)
+## 🚀 GitHub Pages
+This portfolio is published using GitHub Pages.
 
 ---
 
-## 📂 More Projects
-- Rectangle & Box Classes (Java)
-- Factorial Calculator Program
-- Portfolio Website
-
----
-
-## 📥 Installation
-```bash
-git clone https://github.com/your-username/LuckyTwala-Portfolio.git
+## 📬 Contact
+- Email: your email
