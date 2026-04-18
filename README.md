@@ -203,14 +203,14 @@ I successfully created a professional and well-structured CV that effectively sh
 **R** - Result
 
 **Situation:**  
-I was required to publish my portfolio using GitHub Pages.
+As part of my digital portfolio assessment, I was required to publish my GitHub repository using GitHub Pages. I had limited experience with deploying projects online.
 
 **Task:**  
-My task was to deploy my repository as a live website.
+My task was to enable GitHub Pages and provide evidence that my portfolio could be published and accessed online.
 
 **Action:**  
-I configured GitHub Pages settings and ensured my files were correctly structured.
+I navigated to my repository settings and enabled GitHub Pages by selecting the main branch. I configured the deployment settings and generated the GitHub Pages link. I then captured screenshots as evidence to show that the publishing process was completed successfully.
 
 **Result:**  
-I successfully published my portfolio online, making it accessible to others and improving my web deployment skills.
+I was able to successfully enable GitHub Pages and generate a live link for my repository. Although my portfolio was not fully structured with a main page, I gained an understanding of how GitHub Pages works and how to publish a project online. This experience improved my knowledge of deployment and prepared me to create a more complete and professional portfolio in the future.
 
