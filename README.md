@@ -82,19 +82,20 @@ National Senior Certificate (NSC) – 2022
 
 ### Responsive Web Application
 - Built responsive website using HTML, CSS, JavaScript  
-- Designed clean, user-friendly interface with mobile responsiveness  
-- 🔗 Add GitHub link  
+- Designed clean, user-friendly interface with mobile responsiveness   
 
 ### Client-Server Application (Java)
 - Developed Java-based client-server system  
 - Implemented communication between client and server using OOP principles  
-- 🔗 Add GitHub link  
 
 ### Power BI Data Dashboard
 - Created interactive dashboard using Power BI  
 - Cleaned and transformed data using Power Query & Excel  
 - Generated insights from real-world datasets  
 
+### SkillSwap App
+-	Built a skill-sharing platform enabling users to connect and exchange services
+-	Implemented user-focused features and structured the application for scalability
 ---
 
 ## LEADERSHIP & ACTIVITIES
