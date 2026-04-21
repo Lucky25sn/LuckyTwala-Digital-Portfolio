@@ -168,16 +168,16 @@ This task improved my ability to present myself professionally and helped me und
 **R** - Result
 
 ## 1. Situation: 
-- I was required to create a professional CV using Markdown as part of my digital portfolio.
+- As part of my digital portfolio assessment, I was required to create a professional CV using Markdown that clearly presents my skills, education, and experience.
 
-## 2. Task: 
-- My task was to design a clear, well-structured CV that highlights my skills, education, and projects.
+## 2. Task:
+- My task was to design and structure a well-organised CV that highlights my technical abilities, academic background, and practical experience in a clear and professional format.
 
-## 3. Action: 
-- I gathered all relevant information, organised it into sections (education, skills, projects), and used Markdown formatting to create a clean and readable layout.
+## 3. Action:  
+- I carefully gathered all relevant information, including my education, technical skills, projects, and achievements. I used Markdown to structure the CV with headings, bullet points, and sections for easy readability. I also ensured that my skills were clearly categorised (programming, tools, databases, and professional skills) and included links to my GitHub and LinkedIn profiles.
 
 ## 4. Result:  
-- I successfully created a professional CV that clearly presents my strengths and improved my ability to structure and present information effectively.
+- I successfully created a professional and well-structured CV that effectively showcases my abilities as an ICT Application Development student. This process improved my ability to present information clearly, strengthened my understanding of Markdown, and prepared me for real-world job applications.
 
 ---
 
