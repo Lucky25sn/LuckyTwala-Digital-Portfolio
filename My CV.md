@@ -12,9 +12,7 @@
 ---
 
 ## 🧑‍💻 Profile
-I am an ICT Application Development final-year student with experience in both front-end and back-end development. I build responsive websites, manage databases, and create client–server applications. 
-
-I have completed academic and practical projects, working closely with teams to turn ideas into functional software. I am capable of managing projects effectively and delivering reliable, scalable, and user-friendly solutions that meet both project goals and user needs.
+Final-year ICT Application Development student seeking Work Integrated Learning (WIL) or internship in software development or IT. Skilled in building responsive web applications, working with databases, and developing client-server systems through academic projects. Strong team player with leadership experience and a passion for solving real-world problems using technology.
 
 ---
 
@@ -27,71 +25,85 @@ Diploma in ICT Application Development *(In Progress – 2026)*
 National Senior Certificate (NSC) – 2022  
 
 ---
+## 💼 Work Experience
+
+### Call Center Agent | Training Force  
+Cape Town, South Africa  
+**Jul 2025 – Oct 2025**  
+- Handled customer queries via inbound and outbound calls  
+- Captured and updated client data accurately in systems  
+- Resolved customer issues efficiently while maintaining service standards  
+- Developed strong communication, problem-solving, and customer service skills
+---
 
 ## 💻 Technical Skills
 
-### Programming Languages
-- Java  
-- Python  
-- JavaScript  
-- SQL  
-
-### Front-End Technologies
-- HTML  
-- CSS  
-- JavaScript  
-
-### Tools & Platforms
-- Git & GitHub  
-- Power BI  
-- Visual Studio Code  
-- NetBeans  
-- IntelliJ IDEA  
-- MySQL Workbench  
-- Microsoft Tools  
-
-### Databases
-- MySQL  
-
-### Methodologies & Concepts
-- Agile  
-- Object-Oriented Programming (OOP)  
-- Software Development Life Cycle (SDLC)  
-
-### Professional Skills
-- Problem-solving  
-- Team collaboration  
-- Time management  
-- Communication skills  
-- Project planning and organisation  
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Web:** HTML, CSS  
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, NetBeans, Microsoft tools 
+- **Database:** MySQL  
+- **Concepts:** OOP, SDLC, Agile  
 
 ---
+## 📜 Certificates
 
-## Projects
+### AWS Educate – Amazon Web Services (AWS)
+**Cloud Computing Fundamentals**
+- Completed AWS Educate program covering cloud concepts and core AWS services  
+- Gained foundational knowledge in cloud computing, storage, networking, and security on AWS
+---
 
-### Academic Projects
-- Led academic projects, ensuring deadlines were met and effective team collaboration  
-- Developed responsive websites and client-server applications  
-- Used GitHub for version control and teamwork  
-- Assisted peers in understanding technical concepts  
+## KEY PROJECTS
 
-### Data & Analytics Projects
-- Built interactive Power BI dashboards using real-world datasets  
-- Performed data cleaning and transformation using Power Query and Excel  
+### Responsive Web Application
+- Built responsive website using HTML, CSS, JavaScript  
+- Designed clean, user-friendly interface with mobile responsiveness   
+
+### Client-Server Application (Java)
+- Developed Java-based client-server system  
+- Implemented communication between client and server using OOP principles  
+
+### Power BI Data Dashboard
+- Created interactive dashboard using Power BI  
+- Cleaned and transformed data using Power Query & Excel  
+- Generated insights from real-world datasets  
+
+### SkillSwap App
+-	Built a skill-sharing platform enabling users to connect and exchange services
+-	Implemented user-focused features and structured the application for scalability
+---
+
+## LEADERSHIP & ACTIVITIES
+- **Inclusivity & Diversity Champion (University):** Led student engagement initiatives  
+- **RCL Member (High School):** Represented student body in decision-making  
+---
+
+## PROFESSIONAL SKILLS
+Problem-solving • Teamwork • Communication • Time management • Project planning  
 
 ---
 
 ## References
 
-**Siphokazi Tswane (CPUT)**  
+**Siphokazi Tswane (CPUT)(lecture)**  
 📧 tswanes@cput.ac.za  
 📞 (021) 460 3010  
 
-**Nompumelelo Mahlaba (Iphondle SSS)**  
+**Nompumelelo Mahlaba (Iphondle SSS)(Teacher)**  
 📧 lelojoy8@gmail.com  
 📞 0736914872  
 ## 📄 My CV
-👉 [View My CV](cv.md)
+👉 [View My CV](https://github.com/Lucky25sn/LuckyTwala-Digital-Portfolio/blob/main/Lucky_J.Twala_CV.pdf)
+
+## Reflection: Creating My CV
+
+Creating my CV using Markdown was a valuable learning experience. Initially, I was unsure how to present my information in a professional way without using traditional tools like Microsoft Word. I had to think carefully about structure, clarity, and what information is most important to include.
+
+Through this process, I learned how to organise my skills, education, and projects in a way that is easy to read and relevant to employers. I also realised the importance of tailoring my CV to highlight my strengths as an ICT Application Development student.
+
+This task improved my ability to present myself professionally and helped me understand what employers look for in a CV. It also strengthened my confidence in using Markdown for real-world documentation.
+
+---
 ## 📄 Reflection: Creating My CV (STAR Method)
 **S** - Situation
 
